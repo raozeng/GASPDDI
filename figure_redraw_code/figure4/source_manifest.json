@@ -1,0 +1,85 @@
+{
+  "source_sha256": {
+    "paper/figures/fig1_case_studies_substructure_saliency.png": "04b5e8ef58b38e01dccacefa03b5d51feb2915a81d645fd60cc2c94035279456",
+    "paper/figures/fig1_case_studies_substructure_saliency.pdf": "82edd9827b3e23d333e47dd8345de087ceb3f618e1e636c623b81c34ffe3ae6c",
+    "interpretability/run_all_interpretability.py": "8efe1580ae3773590e9d1cdbd4904c34cf99961cce08117d710907c45f1741d5"
+  },
+  "output": "paper/figures/fig1_case_studies_substructure_saliency_v2.png",
+  "output_sha256": "fd287d7495778049d3628b4ed546643413af6bd267e96ad9fe3fa5b856606312",
+  "output_size": [
+    4895,
+    4330
+  ],
+  "dpi": 300,
+  "operation": "Heading-only raster composition from original 300-dpi PNG",
+  "retained_chart_rectangles": [
+    [
+      242,
+      620,
+      1485,
+      1438
+    ],
+    [
+      1817,
+      620,
+      3060,
+      1438
+    ],
+    [
+      242,
+      1726,
+      1485,
+      2544
+    ],
+    [
+      1817,
+      1726,
+      3060,
+      2544
+    ],
+    [
+      242,
+      2833,
+      1485,
+      3651
+    ],
+    [
+      1817,
+      2833,
+      3060,
+      3651
+    ],
+    [
+      3180,
+      620,
+      4870,
+      1555
+    ],
+    [
+      3180,
+      1727,
+      4870,
+      2662
+    ],
+    [
+      3180,
+      2834,
+      4870,
+      3770
+    ],
+    [
+      0,
+      3935,
+      2450,
+      4805
+    ],
+    [
+      2450,
+      3935,
+      4895,
+      4805
+    ]
+  ],
+  "crop_top_pixels": 475,
+  "note": "No numerical values, molecular highlights, token bars, gates or probabilities recomputed."
+}

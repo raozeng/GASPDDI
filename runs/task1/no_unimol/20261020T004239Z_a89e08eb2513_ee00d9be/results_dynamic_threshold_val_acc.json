@@ -1,0 +1,17 @@
+{
+  "Task": "task1",
+  "Run_ID": "20261020T004239Z_a89e08eb2513_ee00d9be",
+  "output": "/home/zeng/YjDDI-1-3/runs/task1/no_3d/20261020T004239Z_a89e08eb2513_ee00d9be/results_dynamic_threshold_val_acc.csv",
+  "sha256": "f6c5580cac1a51680c9138b293faf1252979e118343808e81263e75bbd610dc1",
+  "original_files_unchanged": {
+    "results.csv": "7c1e4026ce65014b60e6d2e4753ce3f5683afaf4a7bc4256026141c1646f7317",
+    "manifest.json": "b6a81811ed4fbff7d8cdcf64793c62a0742c9a368d380930022e6452e5470ee8"
+  },
+  "threshold_protocol": "Per-fold threshold 0.01..0.99 step0.01 chosen to maximize validation ACC; fixed on test.",
+  "metric_protocol": "ACC/AUC/AP/F1/Precision/Recall are test metrics; Val_ACC/Val_F1 are validation metrics.",
+  "notes": [
+    "Mean threshold is descriptive; each test fold uses its own threshold.",
+    "Online training ACC and fixed-0.5 Train_Eval_ACC are omitted to avoid mixing threshold protocols."
+  ],
+  "training_note": "Fold5 was evaluated at best validation checkpoint epoch126 after training interruption during epoch130."
+}

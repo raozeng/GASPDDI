@@ -1,0 +1,15 @@
+{
+  "original_files_sha256": {
+    "interpretability\\run_all_interpretability.py": "8efe1580ae3773590e9d1cdbd4904c34cf99961cce08117d710907c45f1741d5",
+    "paper\\figures\\fig3_modality_and_operator_decomposition.png": "e20f91a68b749c143bccef1c2d419c786233ef43929bb74c208313da48254671",
+    "paper\\figures\\fig3_modality_and_operator_decomposition.pdf": "477135f7049d65c01ddc44afff7cff52c6835a04a9bab029204a2c3b751d6b29",
+    "interpretability\\tables\\table3a_fusion_block_attributions.csv": "a9734b634d702a67f282ec0b079631a5a9af7157f17f71630ecc6d68dffa7114",
+    "interpretability\\tables\\table3b_counterfactual_operator_ablations.csv": "5e6f5a898c1652a09fd348b85f0c6ba93beb99789420541d32bec6153aad4e0c",
+    "interpretability\\tables\\table3c_coldstart_similarity_bins.csv": "dd5c84b5c3b8e6695e964266166a40e9f9cbf40899fc68ef5699924f768773e0"
+  },
+  "changes": [
+    "B legend Asymmetric Diff -> Absolute Diff (lookup key unchanged)",
+    "C final bin >0.55 -> ≥0.55 (label only)"
+  ],
+  "output": "paper\\figures\\fig3_modality_and_operator_decomposition_v2.png"
+}

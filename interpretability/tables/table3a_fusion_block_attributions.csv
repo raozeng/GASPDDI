@@ -1,0 +1,49 @@
+Task,Model,Block,Mean_Abs_Contrib,Share_Pct
+Task 1,No-3D Main Model,Seq_A ($e_a$),0.0,0.0
+Task 1,No-3D Main Model,Seq_B ($e_b$),0.0,0.0
+Task 1,No-3D Main Model,Seq_Prod ($e_a \odot e_b$),0.0,0.0
+Task 1,No-3D Main Model,Seq_Diff ($|e_a - e_b|$),0.0,0.0
+Task 1,No-3D Main Model,FP_A ($f_a$),2.804121732711792,26.54425616754383
+Task 1,No-3D Main Model,FP_B ($f_b$),2.8528857231140137,27.005863749657046
+Task 1,No-3D Main Model,FP_Prod ($f_a \odot f_b$),0.19893963634967804,1.8831938027301822
+Task 1,No-3D Main Model,FP_Diff ($|f_a - f_b|$),4.708002090454102,44.56668627060279
+Task 1,3D-Aligned Multimodal,Seq_A ($e_a$),0.7402695417404175,8.008665412650869
+Task 1,3D-Aligned Multimodal,Seq_B ($e_b$),0.7599456906318665,8.221533407612052
+Task 1,3D-Aligned Multimodal,Seq_Prod ($e_a \odot e_b$),0.01595078967511654,0.17256489747672105
+Task 1,3D-Aligned Multimodal,Seq_Diff ($|e_a - e_b|$),1.1447409391403198,12.384471667150322
+Task 1,3D-Aligned Multimodal,FP_A ($f_a$),1.5798566341400146,17.091805713142374
+Task 1,3D-Aligned Multimodal,FP_B ($f_b$),1.6496214866638184,17.846562365850904
+Task 1,3D-Aligned Multimodal,FP_Prod ($f_a \odot f_b$),0.18440482020378113,1.9949983380648002
+Task 1,3D-Aligned Multimodal,FP_Diff ($|f_a - f_b|$),3.168567180633545,34.279398187233376
+Task 2,No-3D Main Model,Seq_A ($e_a$),0.0005303967045620084,0.009476389633596205
+Task 2,No-3D Main Model,Seq_B ($e_b$),0.0009291829192079604,0.0166013463273084
+Task 2,No-3D Main Model,Seq_Prod ($e_a \odot e_b$),1.9429237385626408e-10,3.4713455450646503e-09
+Task 2,No-3D Main Model,Seq_Diff ($|e_a - e_b|$),0.002337927930057049,0.04177084022191075
+Task 2,No-3D Main Model,FP_A ($f_a$),1.437633752822876,25.68563770283755
+Task 2,No-3D Main Model,FP_B ($f_b$),1.5280851125717163,27.301696627216447
+Task 2,No-3D Main Model,FP_Prod ($f_a \odot f_b$),0.1648644655942917,2.94556866448908
+Task 2,No-3D Main Model,FP_Diff ($|f_a - f_b|$),2.4626526832580566,43.99924840793615
+Task 2,3D-Aligned Multimodal,Seq_A ($e_a$),0.27193883061408997,4.1948682905989285
+Task 2,3D-Aligned Multimodal,Seq_B ($e_b$),0.27965566515922546,4.31390647453201
+Task 2,3D-Aligned Multimodal,Seq_Prod ($e_a \odot e_b$),0.003659401787444949,0.05644912308422088
+Task 2,3D-Aligned Multimodal,Seq_Diff ($|e_a - e_b|$),0.45881983637809753,7.077653376584558
+Task 2,3D-Aligned Multimodal,FP_A ($f_a$),1.3518054485321045,20.85265204053714
+Task 2,3D-Aligned Multimodal,FP_B ($f_b$),1.4594624042510986,22.51334444253139
+Task 2,3D-Aligned Multimodal,FP_Prod ($f_a \odot f_b$),0.22576938569545746,3.4826686387640997
+Task 2,3D-Aligned Multimodal,FP_Diff ($|f_a - f_b|$),2.4315438270568848,37.50845759794187
+Task 3,No-3D Main Model,Seq_A ($e_a$),0.004508926533162594,0.1192241960753804
+Task 3,No-3D Main Model,Seq_B ($e_b$),0.0050641694106161594,0.13390582488527594
+Task 3,No-3D Main Model,Seq_Prod ($e_a \odot e_b$),1.9666988009703346e-05,0.0005200308360394554
+Task 3,No-3D Main Model,Seq_Diff ($|e_a - e_b|$),3.7115874818027805e-08,9.814110530006831e-07
+Task 3,No-3D Main Model,FP_A ($f_a$),0.8894231915473938,23.517962469142148
+Task 3,No-3D Main Model,FP_B ($f_b$),1.0017924308776855,26.489208978532314
+Task 3,No-3D Main Model,FP_Prod ($f_a \odot f_b$),0.11396276950836182,3.013382337730885
+Task 3,No-3D Main Model,FP_Diff ($|f_a - f_b|$),1.7671176195144653,46.72579515494509
+Task 3,3D-Aligned Multimodal,Seq_A ($e_a$),0.34538760781288147,5.552044905783543
+Task 3,3D-Aligned Multimodal,Seq_B ($e_b$),0.36091527342796326,5.801649393109651
+Task 3,3D-Aligned Multimodal,Seq_Prod ($e_a \odot e_b$),0.005488342139869928,0.08822413233589538
+Task 3,3D-Aligned Multimodal,Seq_Diff ($|e_a - e_b|$),0.4040566086769104,6.495138751672225
+Task 3,3D-Aligned Multimodal,FP_A ($f_a$),1.1505790948867798,18.49535610996214
+Task 3,3D-Aligned Multimodal,FP_B ($f_b$),1.3191628456115723,21.205310182537175
+Task 3,3D-Aligned Multimodal,FP_Prod ($f_a \odot f_b$),0.21500180661678314,3.4561161378079106
+Task 3,3D-Aligned Multimodal,FP_Diff ($|f_a - f_b|$),2.420316457748413,38.906160370716634

@@ -1,0 +1,33 @@
+{
+  "sources": {
+    "paper\\figures\\fig2_fingerprint_bit_attribution.png": "43eb917deb5f2376e52bc523074241136f34bde57ef4947a8880ab9f5b3e48b2",
+    "paper\\figures\\fig2_fingerprint_bit_attribution.pdf": "1985d485e2d371fa5879bda856156afc42a614ec8c6f33462a6d58b04efd6474",
+    "interpretability\\run_all_interpretability.py": "8efe1580ae3773590e9d1cdbd4904c34cf99961cce08117d710907c45f1741d5",
+    "interpretability\\tables\\table2_fingerprint_bit_importance.csv": "5629b871419e67db706969f9fa7f5112e5a869f096636ebb4acef3c0e429fe7a"
+  },
+  "heatmap_crop": [
+    800,
+    2180,
+    3125,
+    3878
+  ],
+  "molecular_assets": "Six unchanged molecular drawings extracted from original PDF images I2–I7; no new molecular inference.",
+  "output": "paper/figures/fig2_fingerprint_bit_attribution_v2.png",
+  "output_size": [
+    7340,
+    4000
+  ],
+  "output_sha256": "ff3eab6fb1a71dc755dfcb23df93a282babe60fbcf5f9f7c606d5fc5875ebce9",
+  "dpi": 300,
+  "changes": [
+    "Remove overall title",
+    "Show all 16 full MACCS descriptions with wrapping",
+    "Retain full B relation labels",
+    "C1–C6 Mean |IG| -> Mean |Grad × Bit|",
+    "C1–C6 radius headings -> r≤2",
+    "A/B titles on one line; C titles on two lines",
+    "Reduce vertical gaps and enlarge molecular cards uniformly"
+  ],
+  "preserved": "Original CSV values in A, original heatmap body pixels in B, original molecular structures/highlights in C with uniform display scaling",
+  "heatmap_asset_note": "Remove only old y labels above the x-axis; retain full protruding rotated x labels and colorbar top tick."
+}

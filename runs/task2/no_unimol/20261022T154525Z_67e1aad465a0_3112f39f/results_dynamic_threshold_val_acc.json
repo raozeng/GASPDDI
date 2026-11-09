@@ -1,0 +1,16 @@
+{
+  "Task": "task2",
+  "Run_ID": "20261022T154525Z_67e1aad465a0_3112f39f",
+  "output": "/home/zeng/YjDDI-1-3/runs/task2/no_3dli/20261022T154525Z_67e1aad465a0_3112f39f/results_dynamic_threshold_val_acc.csv",
+  "sha256": "7661bca25a89b784cfd04ce4882e122900378ac0d95a76541358a1382cee5686",
+  "original_files_unchanged": {
+    "results.csv": "fb32f37c8ff78dc52fd71fa1f7037ddf9784a6defec8aeb9530e358b5c16d75b",
+    "manifest.json": "e1e64abb5fefe72eda344efa58077190dcb2a2e89f91da710424a1270310f20d"
+  },
+  "threshold_protocol": "Per-fold threshold 0.01..0.99 step0.01 chosen to maximize validation ACC; fixed on test.",
+  "metric_protocol": "ACC/AUC/AP/F1/Precision/Recall are test metrics; Val_ACC/Val_F1 are validation metrics.",
+  "notes": [
+    "Mean threshold is descriptive; each test fold uses its own threshold.",
+    "Online training ACC and fixed-0.5 Train_Eval_ACC are omitted to avoid mixing threshold protocols."
+  ]
+}

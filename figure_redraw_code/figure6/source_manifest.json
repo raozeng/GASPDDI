@@ -1,0 +1,64 @@
+{
+  "sources": {
+    "paper\\figures\\fig4_latent_manifold_and_relation_hierarchy.png": "71af06a5fac2bc850f17d161b2cf965973d0b664c8f904450b1677e2998099d4",
+    "paper\\figures\\fig4_latent_manifold_and_relation_hierarchy.pdf": "76fd403d0a5dd0e211d6c0b5f5a4c76b74ecbec4d1127b2e205d55063164a13b",
+    "interpretability\\run_all_interpretability.py": "8efe1580ae3773590e9d1cdbd4904c34cf99961cce08117d710907c45f1741d5"
+  },
+  "source_crops": {
+    "manifold_panels": [
+      0,
+      275,
+      5058,
+      1610
+    ],
+    "classifier_heatmap_body": [
+      640,
+      1840,
+      2580,
+      3230
+    ],
+    "superfamily_panel": [
+      2660,
+      1715,
+      5058,
+      3230
+    ]
+  },
+  "note": "Reuse original plotted pixels without rerunning t-SNE, clustering or evaluation; only replace approved labels and layout.",
+  "output": "paper/figures/fig4_latent_manifold_and_relation_hierarchy_v2.png",
+  "output_size": [
+    6000,
+    3040
+  ],
+  "dpi": 300,
+  "output_sha256": "6c539e89ed03934f513591490e89ca34586682d1c128dcab2120469b53ca1e6e",
+  "changes": [
+    "Remove overall title",
+    "Restore full 20 B relation labels",
+    "A3 Y60: Increased Hypotensive Activity",
+    "B Y06: Increased Anticoagulant Activity"
+  ],
+  "displayed_B_labels": [
+    "Y04: Increased Metabolism (CYP Induction)",
+    "Y47: Decreased Metabolism (CYP Inhibition)",
+    "Y03: Decreased Bioavailability",
+    "Y14: Decreased Bronchodilatory Activity",
+    "Y20: Increased QTc-Prolonging Cardiotoxicity",
+    "Y10: Increased Antihypertensive Activity",
+    "Y60: Increased Hypotensive Activity",
+    "Y09: Increased Hypoglycemic Activity",
+    "Y66: Increased Hemorrhagic / Bleeding Risk",
+    "Y73: Increased Serum Concentration (Excretion/PK)",
+    "Y75: Decreased Serum Concentration",
+    "Y11: Reduced Active Metabolite Concentration",
+    "Y25: Increased AV Block Activity",
+    "Y15: Increased Cardiotoxic Activity",
+    "Y49: Increased Risk/Severity of Adverse Effects",
+    "Y02: Increased Anticholinergic Activity",
+    "Y70: Decreased Therapeutic Efficacy",
+    "Y16: Increased CNS Depressant Activity",
+    "Y06: Increased Anticoagulant Activity",
+    "Y21: Increased Neuromuscular Blocking"
+  ],
+  "preserved": "Original plotted t-SNE panels, silhouette values, B heatmap/order/colorbar and C bars; CYP and Excretion/PK labels retained."
+}

@@ -1,0 +1,41 @@
+{
+  "original_files_sha256": {
+    "interpretability\\generate_architecture_fig.py": "838c9d7b3c011b8e57ea0b567d67759147f6618bb343867fcd6bee52c2bd5ccf",
+    "paper\\figures\\fig0_model_architecture.pdf": "b0a868b724e46d4ea150128d4eec78dd6dea7d43ba4f912a2f5a981f9bdd627b",
+    "paper\\figures\\fig0_model_architecture.png": "4eb6efda852561b991a5c1f85a5ddc0c4bf7cdbe962700fccd6a559f5d5aad78"
+  },
+  "asset_source": "Original PDF page 1 embedded image objects; chemical structure artwork is unchanged.",
+  "assets": [
+    {
+      "filename": "methotrexate.png",
+      "pdf_object": "I1.png",
+      "pixel_dimensions": [
+        877,
+        298
+      ]
+    },
+    {
+      "filename": "ibuprofen.png",
+      "pdf_object": "I2.png",
+      "pixel_dimensions": [
+        877,
+        298
+      ]
+    },
+    {
+      "filename": "fluconazole.png",
+      "pdf_object": "I3.png",
+      "pixel_dimensions": [
+        734,
+        393
+      ]
+    }
+  ],
+  "output": "paper/figures/fig0_model_architecture_v2.png",
+  "changes": [
+    "SMILES maximum 426 -> 1175",
+    "Asymmetric Diff -> Absolute Diff",
+    "F1 gains +8.9%/+22.8% -> +0.0892/+0.2281",
+    "t-SNE h1 -> relation-conditioned h2 multiplied by classifier row"
+  ]
+}

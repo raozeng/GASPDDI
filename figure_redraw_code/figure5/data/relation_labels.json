@@ -1,0 +1,22 @@
+{
+  "49": "Y49: Increased Risk/Severity of Adverse Effects",
+  "47": "Y47: Decreased Metabolism (CYP Inhibition)",
+  "73": "Y73: Increased Serum Concentration (Excretion/PK)",
+  "75": "Y75: Decreased Serum Concentration",
+  "60": "Y60: Increased Hypotensive Activity",
+  "70": "Y70: Decreased Therapeutic Efficacy",
+  "20": "Y20: Increased QTc-Prolonging Cardiotoxicity",
+  "16": "Y16: Increased CNS Depressant Activity",
+  "4": "Y04: Increased Metabolism (CYP Induction)",
+  "6": "Y06: Increased Anticoagulant / Bleeding Risk",
+  "9": "Y09: Increased Hypoglycemic Activity",
+  "66": "Y66: Increased Hemorrhagic / Bleeding Risk",
+  "15": "Y15: Increased Cardiotoxic Activity",
+  "25": "Y25: Increased AV Block Activity",
+  "10": "Y10: Increased Antihypertensive Activity",
+  "3": "Y03: Decreased Bioavailability",
+  "21": "Y21: Increased Neuromuscular Blocking",
+  "14": "Y14: Decreased Bronchodilatory Activity",
+  "2": "Y02: Increased Anticholinergic Activity",
+  "11": "Y11: Reduced Active Metabolite Concentration"
+}

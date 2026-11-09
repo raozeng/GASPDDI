@@ -1,0 +1,23 @@
+{
+  "original_files_sha256": {
+    "interpretability\\run_all_interpretability.py": "8efe1580ae3773590e9d1cdbd4904c34cf99961cce08117d710907c45f1741d5",
+    "paper\\figures\\fig5_why_3d_distillation_fails_diagnosis.pdf": "d09abc34d129293e264429929115cce83e367b8034d6520803a95d5897349767",
+    "paper\\figures\\fig5_why_3d_distillation_fails_diagnosis.png": "3f744d18bf24075ce3ab3f6be63d98d3f1f7ae8066a3076b1cff1452bd828421"
+  },
+  "csv_sources": [
+    "runs\\task1\\unimol\\20261017T124616Z_adb9fc682457_0b5229c9\\history.csv",
+    "runs\\task2\\unimol\\20261019T043736Z_5b0ccf7d5606_ec488163\\history.csv",
+    "runs\\task1\\unimol\\20261017T124616Z_adb9fc682457_0b5229c9\\results.csv",
+    "runs\\task1\\no_unimol\\20261020T004239Z_a89e08eb2513_ee00d9be\\results.csv",
+    "runs\\task1\\no_unimol\\20261020T004239Z_a89e08eb2513_ee00d9be\\results_dynamic_threshold_val_acc.csv",
+    "runs\\task2\\unimol\\20261019T043736Z_5b0ccf7d5606_ec488163\\results.csv",
+    "runs\\task2\\no_unimol\\20261022T154525Z_67e1aad465a0_3112f39f\\results.csv",
+    "runs\\task2\\no_unimol\\20261022T154525Z_67e1aad465a0_3112f39f\\results_dynamic_threshold_val_acc.csv",
+    "runs\\task3\\unimol\\20261022T014508Z_87b81aebe0f3_4ab803a9\\results.csv",
+    "runs\\task3\\no_unimol\\20261022T080938Z_118f7d1148f6_409fa7a9\\results.csv",
+    "runs\\task3\\no_unimol\\20261022T080938Z_118f7d1148f6_409fa7a9\\results_dynamic_threshold_val_acc.csv"
+  ],
+  "spectral_geometry_source": "paper\\figures\\fig5_why_3d_distillation_fails_diagnosis.pdf",
+  "spectral_geometry_note": "Preserved plotted polyline vertices from original PDF, mapped back using k=1..128 and log-axis ticks 1 and 0.1. No SVD or model inference was rerun; original PDF path simplification is retained.",
+  "output": "paper\\figures\\fig5_why_3d_distillation_fails_diagnosis_v2.png"
+}
