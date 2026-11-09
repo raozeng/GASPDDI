@@ -187,5 +187,4 @@ python figure_redraw_code/toc/generate_toc.py
 
 ## 7. Contact & Citation
 
-- **Fang Fang**: `fangf.0110@gmail.com` (School of Information Engineering, Hainan Vocational University of Science and Technology)
 - **Rao Zeng**: `rao.zeng@hainnu.edu.cn` (School of Artificial Intelligence, Hainan Normal University)
