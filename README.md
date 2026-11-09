@@ -10,6 +10,10 @@ Official PyTorch and RDKit implementation for the manuscript:
 
 ## 1. Overview
 
+<p align="center">
+  <img src="assets/architecture.png" alt="GASPDDI Architecture Overview" width="100%">
+</p>
+
 **GASPDDI** is a 3D-conformer-free, dual-stream molecular representation learning and symmetric/asymmetric interaction fusion framework designed for multi-typed drug–drug interaction (DDI) prediction across **Warm-Start ($\mathcal{S}_1$)**, **Single-Drug Cold-Start ($\mathcal{S}_2$)**, and **Dual-Drug Cold-Start ($\mathcal{S}_3$)** regimes.
 
 ### Key Architectural Components
@@ -27,6 +31,8 @@ GASPDDI/
 ├── README.md                        # Documentation and reproduction guide
 ├── requirements.txt                 # Python package dependencies
 ├── LICENSE                          # MIT License
+├── assets/
+│   └── architecture.png             # GASPDDI overall framework diagram
 ├── model.py                         # GASPDDI (ChemMambaDDI), MambaStudent, DDIPredictor, FocalLoss
 ├── dataset.py                       # DrugBank (Ryu) dataset loader, ECFP4+MACCS cache, K-fold splitters
 ├── negative_sampling.py             # Leak-free 1:1 relation-conditioned negative sampler
